@@ -8,14 +8,10 @@ We need to plan for a hiking trip and take all the intems that can provide us th
 
 ### Mathematical Formulation:
 **Objective:**  
-$
-\max \sum \limits_{i=1}^{n} x_i \times V_i
-$
+$\max \sum \limits_{i=1}^{n} x_i \times V_i$
 
 **Subject to constraints:**  
-$
-\sum \limits_{i=1}^{n} x_i \times w_i  <= C
-$
+$\sum \limits_{i=1}^{n} x_i \times w_i  <= C$
 
 **Where:**   
 $C$ is the total knapsack capacity  
