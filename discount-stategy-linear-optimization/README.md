@@ -3,6 +3,12 @@
 ## Introduction
 This repository holds detailed documentation and code that demonstrates our approach to strategically optimizing discount allocations to enhance customer retention and maximize revenue in a subscription-based business model.
 
+## Team Members
+- Frankle Muchahary
+- Roe Djer Tan
+- Ritwik Roy Choudhary
+- Shreyan Datta Chakraborty
+
 ## [MiniProject2-SFRRAnalytics.ipynb](./MiniProject2-SFRRAnalytics.ipynb)
 This Jupyter notebook contains the practical implementation of the analyses described in the PDF. It includes:
 - Code for performing EDA to understand the impact of discounts on customer lifetime.
