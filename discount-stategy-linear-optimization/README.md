@@ -17,7 +17,7 @@ This Jupyter notebook contains the practical implementation of the analyses desc
 - A linear optimization model using Gurobi that calculates the most revenue-efficient way to allocate discounts across different customer segments.
 - Display of final solutions and quantitative analysis comparing scenarios with and without optimization.
 
-- ## [BAN5763_OptimizationExercise_SFRRAnalytics.pdf](./BAN5763_OptimizationExercise_SFRRAnalytics.pdf)
+## [BAN5763_OptimizationExercise_SFRRAnalytics.pdf](./BAN5763_OptimizationExercise_SFRRAnalytics.pdf)
 This document from Team SFRR Analytics presents a comprehensive optimization exercise aimed at enhancing revenue through strategic discounting for a subscription-based business. The report is structured as follows:
 
 - Project Objective: Develop a discounting model to extend customer retention and increase revenue, categorizing customers into high, medium, and low-value tiers.
